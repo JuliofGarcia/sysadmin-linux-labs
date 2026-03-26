@@ -19,7 +19,7 @@ Cada carpeta contiene comandos aprendidos, laboratorios resueltos y lecciones.
 |---|---------|------|--------|
 | 1 | 01-navegacion-archivos   | Navegación y Archivos   | ✅ Completado |
 | 2 | 02-permisos-usuarios     | Permisos y Usuarios     | ✅ Completado |
-| 3 | 03-procesos-sistema      | Procesos y Sistema      | ⬜ Pendiente  |
+| 3 | 03-procesos-sistema      | Procesos y Sistema      | ✅ Completado |
 | 4 | 04-bash-scripts          | Shell y Scripts Bash    | ⬜ Pendiente  |
 | 5 | 05-redes-linux           | Redes en Linux          | ⬜ Pendiente  |
 | 6 | 06-gestion-paquetes      | Gestión de Paquetes     | ⬜ Pendiente  |
