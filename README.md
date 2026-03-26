@@ -109,7 +109,7 @@ Cada carpeta contiene comandos aprendidos, laboratorios resueltos y lecciones.
 
 | Módulo | Completados | Total |
 |--------|-------------|-------|
-| 🐧 Linux    | 2  | 10 |
+| 🐧 Linux    | 3  | 10 |
 | 📡 Redes    | 0  | 10 |
 | ☁️ GCP      | 0  | 10 |
 | ☁️ AWS      | 0  | 10 |
