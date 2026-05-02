@@ -49,7 +49,7 @@ significa más prioridad. NI (Nice) es un ajuste manual
 de prioridad con rango de -20 (máxima) a +19 (mínima).
 
 ## Lecciones aprendidas
-- Nunca matar procesos del sistema con kill — los que tienen
+- Nunca matar procesos del sistema con Kill — los que tienen
   prioridad rt o muy alta son del kernel y matarlos puede
   causar daños graves al sistema
 - Para saber cuánta RAM usa un proceso mirar RES no VIRT
