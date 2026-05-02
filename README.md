@@ -21,7 +21,7 @@ Cada carpeta contiene comandos aprendidos, laboratorios resueltos y lecciones.
 | 2 | 02-permisos-usuarios     | Permisos y Usuarios     | ✅ Completado |
 | 3 | 03-procesos-sistema      | Procesos y Sistema      | ✅ Completado |
 | 4 | 04-bash-scripts          | Shell y Scripts Bash    | ✅ Completado  |
-| 5 | 05-redes-linux           | Redes en Linux          | ⬜ Pendiente  |
+| 5 | 05-redes-linux           | Redes en Linux          | ✅ Completado  |
 | 6 | 06-gestion-paquetes      | Gestión de Paquetes     | ⬜ Pendiente  |
 | 7 | 07-servicios-systemd     | Servicios y Systemd     | ⬜ Pendiente  |
 | 8 | 08-seguridad-linux       | Seguridad Linux         | ⬜ Pendiente  |
@@ -109,7 +109,7 @@ Cada carpeta contiene comandos aprendidos, laboratorios resueltos y lecciones.
 
 | Módulo | Completados | Total |
 |--------|-------------|-------|
-| 🐧 Linux    | 4  | 10 |
+| 🐧 Linux    | 5  | 10 |
 | 📡 Redes    | 0  | 10 |
 | ☁️ GCP      | 0  | 10 |
 | ☁️ AWS      | 0  | 10 |
