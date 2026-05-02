@@ -115,7 +115,7 @@ Cada carpeta contiene comandos aprendidos, laboratorios resueltos y lecciones.
 | ☁️ AWS      | 0  | 10 |
 | ☁️ Azure    | 0  | 10 |
 | ⚙️ DevOps   | 0  | 10 |
-| **Total**   | **4** | **60** |
+| **Total**   | **5** | **60** |
 
 ---
 
